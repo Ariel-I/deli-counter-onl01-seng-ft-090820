@@ -20,5 +20,5 @@ def take_a_number(line,new_person)
 end
 
 def now_serving(line)
-  if 
+  if deli.empty?
     
