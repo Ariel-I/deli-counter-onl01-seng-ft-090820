@@ -8,3 +8,4 @@ def line(array)
   puts current_line
 end
     
+line(katz_deli)
