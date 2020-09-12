@@ -5,6 +5,7 @@ def line(array)
     newarray = []
     counter = 1 
     array.each do |name|
+      newarray.push "#{counter}"
   
 end
     
