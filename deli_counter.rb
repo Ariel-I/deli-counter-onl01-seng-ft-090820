@@ -1,7 +1,7 @@
 katz_deli = []
 
 def line (array)
-  if array.length 
+  if array.length >= 1
     puts "The line is currently empty."
   elsif line > 0 
     puts |katz_deli| 
